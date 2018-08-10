@@ -6,3 +6,4 @@ num3 = 30
 
 num4 = 4
 num5 = 6
+num6 = 8
